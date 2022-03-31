@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\bin\Debug\netcoreapp3.1\PrintFileTask.exe
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\bin\Debug\netcoreapp3.1\PrintFileTask.deps.json
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\bin\Debug\netcoreapp3.1\PrintFileTask.runtimeconfig.json
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\bin\Debug\netcoreapp3.1\PrintFileTask.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\bin\Debug\netcoreapp3.1\PrintFileTask.dll
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\bin\Debug\netcoreapp3.1\PrintFileTask.pdb
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.dll
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.pdb
+C:\Users\HP\Desktop\Tasks\PrintFileTask\PrintFileTask\obj\Debug\netcoreapp3.1\PrintFileTask.genruntimeconfig.cache
